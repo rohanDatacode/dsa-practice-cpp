@@ -55,6 +55,6 @@ It is my **personal learning log**, showcasing **my own approach** to solving pr
 ## 📬 Connect with Me
 
 - **GitHub:** [rohanDatacode](https://github.com/rohanDatacode)
-- **LinkedIn:** [Rohan Verma](https://www.linkedin.com/in/rohan-verma-b4a4b6379)
+- **LinkedIn:** [Rohan Verma](https://www.linkedin.com/in/rohan7258)
 
 ---
